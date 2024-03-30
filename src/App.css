@@ -1,0 +1,55 @@
+.das{
+  display: flex;
+  gap: 1rem;
+  margin: 5px;
+}
+.btn{
+  display:flex;
+  gap: 1rem;
+}
+.te-st{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 6rem;
+  padding: 20px;
+  margin: 70px 0px;
+}
+.teach-card{
+padding: 10px 100px 10px 100px;
+ 
+}
+.inp1{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+.inp{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.a-btn{
+  display: flex;
+  margin: 20px;
+  justify-content: center;
+  align-items: center;
+}
+.cen{
+  text-align: center;
+
+}
+body{
+  background-image: linear-gradient(to right, rgb(5, 74, 67), rgb(29, 131, 121), rgb(5, 74, 67));
+}
+.children{
+  text-align: center;
+  margin: 50px;
+}
+.below{
+  margin-top: 100px;
+}
